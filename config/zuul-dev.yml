@@ -15,3 +15,7 @@ zuul:
     item-service: /item-service/**
     user-service: /user-service/**
     order-service: /order-service/**
+    
+cloud:
+  config:
+    override-none: true
